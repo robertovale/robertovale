@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Estudante_de_CC-blue?style=for-the-badge&logo=microsoft-academic&logoColor=white">
   <img src="https://img.shields.io/badge/Foco-Aprendizado_e_Evolução-purple?style=for-the-badge">
+   <img src="https://img.shields.io/badge/Inglês-Intermediário-green?style=for-the-badge">
 </div>
 
 ### 🚀 Sobre Mim
